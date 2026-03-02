@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Nolan%20Charpentier&fontSize=70&animation=twinkling&desc=Backend%20Developer%20%7C%20Fullstack%20Explorer&descSize=20&descAlignVertical=55" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Nolan%20Charpentier&fontSize=70&animation=twinkling" />
+  <br>
+  <kbd><b>Backend Developer | Fullstack Explorer</b></kbd>
 </p>
 
 <p align="center">
@@ -45,7 +47,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nolanc61/Nolanc61/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/Nolanc61/Nolanc61/output/snake.svg" alt="Snake Game" />
 </p>
 
 ---
@@ -58,5 +60,3 @@
 <a href="https://discord.gg/nolan.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 <a href="mailto:nolan61250@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
 </p>
-
----
