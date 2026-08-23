@@ -39,8 +39,8 @@
 
 ### 📊 My GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nolanc61&show_icons=true&theme=tokyonight&cache_bust=1" alt="Stats" height="180" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nolanc61&layout=compact&theme=tokyonight&cache_bust=1" alt="Langages" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nolanc61&show_icons=true&theme=tokyonight&cache_bust=1" alt="Stats" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nolanc61&layout=compact&theme=tokyonight&cache_bust=1" alt="Langages" height="180" />
 </p>
 
 ---
